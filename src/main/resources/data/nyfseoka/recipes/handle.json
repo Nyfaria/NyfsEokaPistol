@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#DD",
+    "#  "
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:logs"
+    },
+    "D": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "nyfseoka:handle",
+    "count": 1
+  }
+}

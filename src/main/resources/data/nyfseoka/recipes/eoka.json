@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FDD",
+    "#  "
+  ],
+  "key": {
+    "#": {
+      "item": "nyfseoka:handle"
+    },
+    "D": {
+      "item": "nyfseoka:barrel"
+    },
+    "F": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "nyfseoka:eoka",
+    "count": 1
+  }
+}
